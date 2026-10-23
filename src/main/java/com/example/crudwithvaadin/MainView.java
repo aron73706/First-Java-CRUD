@@ -38,7 +38,7 @@ public class MainView extends VerticalLayout {
 		grid.setColumns("id", "firstName", "lastName");
 		grid.getColumnByKey("id").setWidth("50px").setFlexGrow(0);
 
-		filter.setPlaceholder("Filter by last name");
+		filter.setPlaceholder("Filter by last name (Added by Manuel)");
 
 		// Re-filter the grid while the user types
 		filter.setValueChangeMode(ValueChangeMode.LAZY);
