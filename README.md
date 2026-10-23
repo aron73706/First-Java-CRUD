@@ -23,3 +23,9 @@ Then open http://localhost:8080 (on Windows use `.\mvnw spring-boot:run`).
 | [03-crud-update-delete.png](doc/03-crud-update-delete.png) | Editing and deleting a customer |
 | [04-startup-logs.png](doc/04-startup-logs.png) | Startup logs ("Started CrudWithVaadinApplication") |
 | [05-commit-history.png](doc/05-commit-history.png) | Commit history with my commits and my partner's merged pull request |
+
+## Commit history
+
+Commits from me (aron73706) and my partner (Manuel-Vazhakal-74143), whose pull request #1 was reviewed and merged:
+
+![Commit history](doc/05-commit-history.png)
